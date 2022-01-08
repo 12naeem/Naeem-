@@ -115,3 +115,13 @@ void strLowerUpper(char ch)
    }
 
 }
+Output:
+String 1:nae
+String 2:em 
+Enter an Alphabet:abcdef
+Reverse String is:me
+Character is Lowercase Letters 
+Concated String is:naeem
+The length  is :5
+
+
